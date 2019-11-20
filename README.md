@@ -9,12 +9,8 @@ In this context, we decide to acquire information about the behavior of students
 by using “Smart Jacket” conceived with advanced technologies including IoT and embedded system techniques.
 Our solution could be interesting when speaking about quality of education, it provides accurate tracking from where we can find out easily their problems which can help us to analyzethem and finding better solutions to deal with them.
 
-This report summarizes the work we have done. It is organized into chapters as follows:
-
-	Inthe first chapter,we present the Smart School with its structure and its role in student life and we show how the integration of Smart Jacket into Smart School could be beneficial.
 
 After that, in the second chapter we will present the hardware and the software tools required for the carrying out of the project.Also, we will explain with great details how the design of Smart Jacket would be. 
 
-	The final chapter contains the discussion, conclusion and the future work of the project.
-  
+	
 
